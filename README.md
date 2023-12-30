@@ -41,8 +41,8 @@ The pointer & insights is extensive to be discussed here.Therefore, conclusion &
 I urge the stakeholders to keep these point in mind before taking any decison regarding business.
 
 ## Contact
-[GitHub](https://github.com/ChinmaySahu10) 
-[LinkedIn](https://www.linkedin.com/in/chinmaysahu7/)
-Email : chinmay11sahu@gmail.com
+- [GitHub](https://github.com/ChinmaySahu10) 
+- [LinkedIn](https://www.linkedin.com/in/chinmaysahu7/)
+- [Email](chinmay11sahu@gmail.com)
 
-**Note**: Everything is done in one Jupyter notebook, covering analysis, models, and recommendations.
+**Note**: Everything is done in one Jupyter notebook, covering analysis, models, and recommendations. Also teh dataset & notbeeok has been compressed.
