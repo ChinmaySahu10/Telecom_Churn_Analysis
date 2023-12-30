@@ -45,4 +45,4 @@ I urge the stakeholders to keep these point in mind before taking any decison re
 - [LinkedIn](https://www.linkedin.com/in/chinmaysahu7/)
 - Email: chinmay11sahu@gmail.com
 
-**Note**: Everything is done in one Jupyter notebook, covering analysis, models, and recommendations. Also teh dataset & notbeeok has been compressed.
+**Note**: Everything is done in one Jupyter notebook, covering analysis, models, and recommendations. Also the dataset & notbeeok has been compressed.
